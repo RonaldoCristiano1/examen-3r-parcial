@@ -16,3 +16,23 @@ td{
     padding: 1px;
     width: 4px;
 }
+
+section{
+    border: 6px solid rgb(61, 5, 61);
+    width: 1000px;
+    height: 500px;
+    background-color: aquamarine;
+    justify-self: center;
+
+}
+
+label{
+    text-decoration: blue;
+    align-items: left;
+}
+input{
+    align-items: left;
+}
+.b{
+    align-items: right;
+}
